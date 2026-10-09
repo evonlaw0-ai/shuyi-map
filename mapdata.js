@@ -12,7 +12,7 @@ var simplemaps_countrymap_mapdata={
     state_hover_color: "#9A3B3B",
     state_url: "",
     border_size: 1.5,
-    all_states_inactive: "no",
+    all_states_zoomable: "yes",
     all_states_zoomable: "yes",
     
     //Location defaults
@@ -183,45 +183,9 @@ var simplemaps_countrymap_mapdata={
       name: "Johor",
       parent_id: "MY01"
     },
-    MY02: {
-      name: "Kedah",
-      parent_id: "MY02"
-    },
-    MY03: {
-      name: "Kelantan",
-      parent_id: "MY03"
-    },
-    MY04: {
-      name: "Melaka",
-      parent_id: "MY04"
-    },
-    MY05: {
-      name: "Negeri Sembilan",
-      parent_id: "MY05"
-    },
-    MY06: {
-      name: "Pahang",
-      parent_id: "MY06"
-    },
-    MY07: {
-      name: "Pulau Pinang",
-      parent_id: "MY07"
-    },
-    MY08: {
-      name: "Perak",
-      parent_id: "MY08"
-    },
-    MY09: {
-      name: "Perlis",
-      parent_id: "MY09"
-    },
     MY10: {
       name: "Selangor",
       parent_id: "MY10"
-    },
-    MY11: {
-      name: "Terengganu",
-      parent_id: "MY11"
     },
     MY12: {
       name: "Sabah",
@@ -234,15 +198,6 @@ var simplemaps_countrymap_mapdata={
     MY14: {
       name: "Kuala Lumpur",
       parent_id: "MY14"
-    },
-    MY15: {
-      name: "Labuan",
-      parent_id: "MY15"
-    },
-    MY16: {
-      name: "Putrajaya",
-      parent_id: "MY16"
-    }
   },
   legend: {
     entries: []
