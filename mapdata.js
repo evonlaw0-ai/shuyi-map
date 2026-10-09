@@ -8,8 +8,8 @@ var simplemaps_countrymap_mapdata={
     
     //State defaults
     state_description: "State description",
-    state_color: "#88A4BC",
-    state_hover_color: "#3B729F",
+    state_color: "#E8DED0",
+    state_hover_color: "#9A3B3B",
     state_url: "",
     border_size: 1.5,
     all_states_inactive: "no",
@@ -76,98 +76,98 @@ var simplemaps_countrymap_mapdata={
   state_specific: {
     MY01: {
       name: "Johor",
-      color: "E8DED0",
-      hover_color: "9A3B3B",
+      color: "#E8DED0",
+      hover_color: "#9A3B3B",
       url: "#johor"
     },
     MY02: {
       name: "Kedah",
-      color: "E8DED0",
-      hover_color: "9A3B3B",
+      color: "#E8DED0",
+      hover_color: "#9A3B3B",
       url: "#kedah"
     },
     MY03: {
       name: "Kelantan",
-      color: "E8DED0",
-      hover_color: "9A3B3B",
+      color: "#E8DED0",
+      hover_color: "#9A3B3B",
       url: "#kelantan"
     },
     MY04: {
       name: "Melaka",
-      color: "E8DED0",
-      hover_color: "9A3B3B",
+      color: "#E8DED0",
+      hover_color: "#9A3B3B",
       url: "#melaka"
     },
     MY05: {
       name: "Negeri Sembilan",
-      color: "E8DED0",
-      hover_color: "9A3B3B",
+      color: "#E8DED0",
+      hover_color: "#9A3B3B",
       url: "#negeri-sembilan"
     },
     MY06: {
       name: "Pahang",
-      color: "E8DED0",
-      hover_color: "9A3B3B",
+      color: "#E8DED0",
+      hover_color: "#9A3B3B",
       url: "#pahang"
     },
     MY07: {
       name: "Pulau Pinang",
-      color: "E8DED0",
-      hover_color: "9A3B3B",
+      color: "#E8DED0",
+      hover_color: "#9A3B3B",
       url: "#penang"
     },
     MY08: {
       name: "Perak",
-      color: "E8DED0",
-      hover_color: "9A3B3B",
+      color: "#E8DED0",
+      hover_color: "#9A3B3B",
       url: "#perak"
     },
     MY09: {
       name: "Perlis",
-      color: "E8DED0",
-      hover_color: "9A3B3B",
+      color: "#E8DED0",
+      hover_color: "#9A3B3B",
       url: "#perlis"
     },
     MY10: {
       name: "Selangor",
-      color: "E8DED0",
-      hover_color: "9A3B3B",
+      color: "#E8DED0",
+      hover_color: "#9A3B3B",
       url: "#selangor"
     },
     MY11: {
       name: "Terengganu",
-      color: "E8DED0",
-      hover_color: "9A3B3B",
+      color: "#E8DED0",
+      hover_color: "#9A3B3B",
       url: "#terengganu"
     },
     MY12: {
       name: "Sabah",
-      color: "E8DED0",
-      hover_color: "9A3B3B",
+      color: "#E8DED0",
+      hover_color: "#9A3B3B",
       url: "#sabah"
     },
     MY13: {
       name: "Sarawak",
-      color: "E8DED0",
-      hover_color: "9A3B3B",
+      color: "#E8DED0",
+      hover_color: "#9A3B3B",
       url: "#sarawak"
     },
     MY14: {
       name: "Kuala Lumpur",
-      color: "E8DED0",
-      hover_color: "9A3B3B",
+      color: "#E8DED0",
+      hover_color: "#9A3B3B",
       url: "#kuala-lumpur"
     },
     MY15: {
       name: "Labuan",
-      color: "E8DED0",
-      hover_color: "9A3B3B",
+      color: "#E8DED0",
+      hover_color: "#9A3B3B",
       url: "#labuan"
     },
     MY16: {
       name: "Putrajaya",
-      color: "E8DED0",
-      hover_color: "9A3B3B",
+      color: "#E8DED0",
+      hover_color: "#9A3B3B",
       url: "#putrajaya"
     }
   },
