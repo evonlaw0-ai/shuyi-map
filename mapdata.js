@@ -179,28 +179,25 @@ var simplemaps_countrymap_mapdata={
     }
   },
   labels: {
-    MY01: {
-      name: "Johor",
-      parent_id: "MY01"
-    },
-    MY10: {
-      name: "Selangor",
-      parent_id: "MY10"
-    },
-    MY12: {
-      name: "Sabah",
-      parent_id: "MY12"
-    },
-    MY13: {
-      name: "Sarawak",
-      parent_id: "MY13"
-    },
-    MY14: {
-      name: "Kuala Lumpur",
-      parent_id: "MY14"
+  MY01: {
+    name: "Johor",
+    parent_id: "MY01"
   },
-  legend: {
-    entries: []
+  MY12: {
+    name: "Sabah",
+    parent_id: "MY12"
   },
-  regions: {}
+  MY13: {
+    name: "Sarawak",
+    parent_id: "MY13"
+  },
+  MY14: {
+    name: "Kuala Lumpur",
+    parent_id: "MY14"
+  }
+},
+legend: {
+  entries: []
+},
+regions: {}
 };
